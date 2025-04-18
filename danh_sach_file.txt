@@ -1,0 +1,205 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3E69-F6BF
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0
+
+18/04/2025  01:34 PM    <DIR>          .
+17/04/2025  02:38 AM    <DIR>          ..
+01/01/1980  10:00 AM            43,744 background.js
+17/04/2025  02:38 AM    <DIR>          css
+18/04/2025  01:34 PM                 0 danh_sach_file.txt
+17/04/2025  02:38 AM    <DIR>          detection
+17/04/2025  02:38 AM    <DIR>          fonts
+17/04/2025  02:38 AM    <DIR>          icons
+17/04/2025  02:38 AM    <DIR>          injection
+17/04/2025  02:38 AM             1,661 manifest.json
+17/04/2025  02:38 AM    <DIR>          page-scripts
+17/04/2025  02:38 AM    <DIR>          popup
+17/04/2025  02:38 AM    <DIR>          views
+17/04/2025  02:38 AM    <DIR>          _locales
+17/04/2025  02:38 AM    <DIR>          _metadata
+               3 File(s)         45,405 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\css
+
+17/04/2025  02:38 AM    <DIR>          .
+18/04/2025  01:34 PM    <DIR>          ..
+01/01/1980  10:00 AM            31,000 font-awesome.min.css
+17/04/2025  02:38 AM    <DIR>          vex
+               1 File(s)         31,000 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\css\vex
+
+17/04/2025  02:38 AM    <DIR>          .
+17/04/2025  02:38 AM    <DIR>          ..
+01/01/1980  10:00 AM            14,492 vex-theme-os.css
+01/01/1980  10:00 AM             5,374 vex.css
+               2 File(s)         19,866 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\detection
+
+17/04/2025  02:38 AM    <DIR>          .
+18/04/2025  01:34 PM    <DIR>          ..
+01/01/1980  10:00 AM           164,886 bundle.js
+17/04/2025  02:38 AM    <DIR>          detectors
+               1 File(s)        164,886 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\detection\detectors
+
+17/04/2025  02:38 AM    <DIR>          .
+17/04/2025  02:38 AM    <DIR>          ..
+01/01/1980  10:00 AM             1,625 detectClappr.js
+01/01/1980  10:00 AM             1,544 detectFlowPlayer.js
+01/01/1980  10:00 AM             2,079 detectJWPlayer.js
+01/01/1980  10:00 AM             1,770 detectVideoJS.js
+               4 File(s)          7,018 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\fonts
+
+17/04/2025  02:38 AM    <DIR>          .
+18/04/2025  01:34 PM    <DIR>          ..
+01/01/1980  10:00 AM           165,742 fontawesome-webfont.eot
+01/01/1980  10:00 AM           444,379 fontawesome-webfont.svg
+01/01/1980  10:00 AM           165,548 fontawesome-webfont.ttf
+01/01/1980  10:00 AM            98,024 fontawesome-webfont.woff
+01/01/1980  10:00 AM            77,160 fontawesome-webfont.woff2
+01/01/1980  10:00 AM           134,808 FontAwesome.otf
+               6 File(s)      1,085,661 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\icons
+
+17/04/2025  02:38 AM    <DIR>          .
+18/04/2025  01:34 PM    <DIR>          ..
+17/04/2025  02:38 AM             2,534 icon128.png
+17/04/2025  02:38 AM               353 icon16.png
+17/04/2025  02:38 AM               405 icon19.png
+17/04/2025  02:38 AM               434 icon20.png
+17/04/2025  02:38 AM               653 icon32.png
+17/04/2025  02:38 AM               759 icon38.png
+17/04/2025  02:38 AM               800 icon40.png
+17/04/2025  02:38 AM               935 icon48.png
+17/04/2025  02:38 AM             1,864 icon96.png
+               9 File(s)          8,737 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\injection
+
+17/04/2025  02:38 AM    <DIR>          .
+18/04/2025  01:34 PM    <DIR>          ..
+01/01/1980  10:00 AM           714,951 bundle.js
+01/01/1980  10:00 AM            45,958 styles.css
+               2 File(s)        760,909 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\page-scripts
+
+17/04/2025  02:38 AM    <DIR>          .
+18/04/2025  01:34 PM    <DIR>          ..
+01/01/1980  10:00 AM             1,149 netflix.js
+01/01/1980  10:00 AM               217 youtube.js
+               2 File(s)          1,366 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\popup
+
+17/04/2025  02:38 AM    <DIR>          .
+18/04/2025  01:34 PM    <DIR>          ..
+01/01/1980  10:00 AM           228,641 bundle.js
+01/01/1980  10:00 AM               252 index.html
+01/01/1980  10:00 AM             7,413 styles.css
+               3 File(s)        236,306 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\views
+
+17/04/2025  02:38 AM    <DIR>          .
+18/04/2025  01:34 PM    <DIR>          ..
+17/04/2025  02:38 AM    <DIR>          loadZone
+17/04/2025  02:38 AM    <DIR>          notifications
+17/04/2025  02:38 AM    <DIR>          settings
+17/04/2025  02:38 AM    <DIR>          subtitles
+17/04/2025  02:38 AM    <DIR>          videoPlayer
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\views\loadZone
+
+17/04/2025  02:38 AM    <DIR>          .
+17/04/2025  02:38 AM    <DIR>          ..
+01/01/1980  10:00 AM           493,452 bundle.js
+01/01/1980  10:00 AM               298 index.html
+01/01/1980  10:00 AM             6,901 styles.css
+               3 File(s)        500,651 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\views\notifications
+
+17/04/2025  02:38 AM    <DIR>          .
+17/04/2025  02:38 AM    <DIR>          ..
+01/01/1980  10:00 AM           205,477 bundle.js
+01/01/1980  10:00 AM               194 index.html
+01/01/1980  10:00 AM             1,150 styles.css
+               3 File(s)        206,821 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\views\settings
+
+17/04/2025  02:38 AM    <DIR>          .
+17/04/2025  02:38 AM    <DIR>          ..
+01/01/1980  10:00 AM           418,247 bundle.js
+01/01/1980  10:00 AM               298 index.html
+01/01/1980  10:00 AM             3,376 styles.css
+               3 File(s)        421,921 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\views\subtitles
+
+17/04/2025  02:38 AM    <DIR>          .
+17/04/2025  02:38 AM    <DIR>          ..
+01/01/1980  10:00 AM           170,297 bundle.js
+01/01/1980  10:00 AM               194 index.html
+01/01/1980  10:00 AM             2,912 styles.css
+               3 File(s)        173,403 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\views\videoPlayer
+
+17/04/2025  02:38 AM    <DIR>          .
+17/04/2025  02:38 AM    <DIR>          ..
+01/01/1980  10:00 AM           717,286 bundle.js
+01/01/1980  10:00 AM               298 index.html
+01/01/1980  10:00 AM            41,761 styles.css
+               3 File(s)        759,345 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\_locales
+
+17/04/2025  02:38 AM    <DIR>          .
+18/04/2025  01:34 PM    <DIR>          ..
+17/04/2025  02:38 AM    <DIR>          de
+17/04/2025  02:38 AM    <DIR>          en
+17/04/2025  02:38 AM    <DIR>          fr
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\_locales\de
+
+17/04/2025  02:38 AM    <DIR>          .
+17/04/2025  02:38 AM    <DIR>          ..
+17/04/2025  02:38 AM               255 messages.json
+               1 File(s)            255 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\_locales\en
+
+17/04/2025  02:38 AM    <DIR>          .
+17/04/2025  02:38 AM    <DIR>          ..
+17/04/2025  02:38 AM               236 messages.json
+               1 File(s)            236 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\_locales\fr
+
+17/04/2025  02:38 AM    <DIR>          .
+17/04/2025  02:38 AM    <DIR>          ..
+17/04/2025  02:38 AM               240 messages.json
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\Manh Hung Nguyen\AppData\Local\Google\Chrome\User Data\Default\Extensions\kkkbiiikppgjdiebcabomlbidfodipjg\2.8.0_0\_metadata
+
+17/04/2025  02:38 AM    <DIR>          .
+18/04/2025  01:34 PM    <DIR>          ..
+17/04/2025  02:38 AM            54,361 computed_hashes.json
+01/01/1980  10:00 AM             7,427 verified_contents.json
+               2 File(s)         61,788 bytes
+
+     Total Files Listed:
+              53 File(s)      4,485,814 bytes
+              62 Dir(s)  51,429,703,680 bytes free

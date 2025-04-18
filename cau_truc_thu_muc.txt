@@ -1,0 +1,96 @@
+Folder PATH listing for volume Windows
+Volume serial number is 3E69-F6BF
+C:.
+¦   background.js
+¦   cau_truc_thu_muc.txt
+¦   danh_sach_file.txt
+¦   manifest.json
+¦   
++---css
+¦   ¦   font-awesome.min.css
+¦   ¦   
+¦   +---vex
+¦           vex-theme-os.css
+¦           vex.css
+¦           
++---detection
+¦   ¦   bundle.js
+¦   ¦   
+¦   +---detectors
+¦           detectClappr.js
+¦           detectFlowPlayer.js
+¦           detectJWPlayer.js
+¦           detectVideoJS.js
+¦           
++---fonts
+¦       fontawesome-webfont.eot
+¦       fontawesome-webfont.svg
+¦       fontawesome-webfont.ttf
+¦       fontawesome-webfont.woff
+¦       fontawesome-webfont.woff2
+¦       FontAwesome.otf
+¦       
++---icons
+¦       icon128.png
+¦       icon16.png
+¦       icon19.png
+¦       icon20.png
+¦       icon32.png
+¦       icon38.png
+¦       icon40.png
+¦       icon48.png
+¦       icon96.png
+¦       
++---injection
+¦       bundle.js
+¦       styles.css
+¦       
++---page-scripts
+¦       netflix.js
+¦       youtube.js
+¦       
++---popup
+¦       bundle.js
+¦       index.html
+¦       styles.css
+¦       
++---views
+¦   +---loadZone
+¦   ¦       bundle.js
+¦   ¦       index.html
+¦   ¦       styles.css
+¦   ¦       
+¦   +---notifications
+¦   ¦       bundle.js
+¦   ¦       index.html
+¦   ¦       styles.css
+¦   ¦       
+¦   +---settings
+¦   ¦       bundle.js
+¦   ¦       index.html
+¦   ¦       styles.css
+¦   ¦       
+¦   +---subtitles
+¦   ¦       bundle.js
+¦   ¦       index.html
+¦   ¦       styles.css
+¦   ¦       
+¦   +---videoPlayer
+¦           bundle.js
+¦           index.html
+¦           styles.css
+¦           
++---_locales
+¦   +---de
+¦   ¦       messages.json
+¦   ¦       
+¦   +---en
+¦   ¦       messages.json
+¦   ¦       
+¦   +---fr
+¦           messages.json
+¦           
++---_metadata
+        computed_hashes.json
+        verified_contents.json
+        
